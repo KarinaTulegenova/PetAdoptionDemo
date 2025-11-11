@@ -1,0 +1,81 @@
+{
+  "pets": [
+    {
+      "id": "dog1",
+      "name": "Max",
+      "age": 3,
+      "species": "Dog",
+      "breed": "Golden Retriever",
+      "adopted": false
+    },
+    {
+      "id": "dog2",
+      "name": "Rocky",
+      "age": 5,
+      "species": "Dog",
+      "breed": "German Shepherd",
+      "adopted": false
+    },
+    {
+      "id": "dog3",
+      "name": "Buddy",
+      "age": 2,
+      "species": "Dog",
+      "adopted": false
+    },
+    {
+      "id": "cat1",
+      "name": "Luna",
+      "age": 2,
+      "species": "Cat",
+      "breed": "Siamese",
+      "adopted": false
+    },
+    {
+      "id": "cat2",
+      "name": "Whiskers",
+      "age": 4,
+      "species": "Cat",
+      "breed": "British Shorthair",
+      "adopted": false
+    },
+    {
+      "id": "cat3",
+      "name": "Mittens",
+      "age": 1,
+      "species": "Cat",
+      "adopted": false
+    },
+    {
+      "id": "rabbit1",
+      "name": "Fluffy",
+      "age": 1,
+      "species": "Rabbit",
+      "breed": "Holland Lop",
+      "adopted": false
+    },
+    {
+      "id": "rabbit2",
+      "name": "Snowball",
+      "age": 2,
+      "species": "Rabbit",
+      "breed": "Netherland Dwarf",
+      "adopted": false
+    },
+    {
+      "id": "rabbit3",
+      "name": "Cotton",
+      "age": 1,
+      "species": "Rabbit",
+      "adopted": false
+    },
+    {
+      "id": "dog4",
+      "name": "Charlie",
+      "age": 4,
+      "species": "Dog",
+      "breed": "Golden Retriever",
+      "adopted": true
+    }
+  ]
+}
